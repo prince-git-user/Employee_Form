@@ -1,0 +1,28 @@
+.form-div{
+    background-color: aqua;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 40%;
+    margin-top: 100px;
+    width: 400px;
+    border-radius: 10px;
+  
+}
+.child-div{
+    margin-bottom: 10px;
+   
+   
+}
+.show-div{
+   
+    
+    
+    margin-left: 30%;
+    margin-top: 20px;
+    
+    
+  
+}
+.form{
+    margin-left: 30%;
+}

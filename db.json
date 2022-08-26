@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "name": "Prince kumar",
+      "mobile": "7295064364",
+      "email": "princesingh1385@gmail.com",
+      "gender": "Male",
+      "dob": "1999-07-16",
+      "hobbie": "Sports",
+      "id": 1
+    },
+    {
+      "name": "Rahul Kumar",
+      "email": "abc@123gmai.com",
+      "mobile": "7295364235",
+      "gender": "Male",
+      "dob": "2022-08-08",
+      "hobbie": "music",
+      "id": 2
+    },
+    {
+      "name": "Sakshi ",
+      "email": "pk737490@gmail.com",
+      "mobile": "Female",
+      "dob": "2022-08-08",
+      "hobbie": "reading",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Komal singh ",
+      "email": "ka@1234gmail.com",
+      "mobile": "8525896356",
+      "gender": "Female",
+      "dob": "2022-08-04",
+      "hobbie": "music",
+      "id": 4
+    },
+    {
+      "hobbie": "music",
+      "name": "Prince kumar",
+      "mobile": "7295064364",
+      "email": "pk737490@gmail.com",
+      "gender": "Male",
+      "dob": "2022-08-02",
+      "id": 5
+    }
+  ]
+}
