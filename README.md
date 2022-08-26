@@ -2,7 +2,7 @@
 The Applications main goal is to create a dashboard that can manage,  employees adding of employee and showing al on dashboard
 - use mock server to store and retrieve data, make sure that URL is `localhost:8080/employee` anything else will not work
 -sample databse - db.json
--to run mock json server use the commanmd json-server db.json --port 8080 --watch
+-to run mock json server use the command   json-server db.json --port 8080 --watch
 
 
 # Getting Started with Create React App
